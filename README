@@ -1,0 +1,7 @@
+Sistema criado para a finada Brasnet para efetuar o redirecionamento 
+das urls pessoais dos usuarios
+
+Composto de um daemon + um modulo para apache
+
+
+Codigo nao funcional, apenas armazenado para historico
