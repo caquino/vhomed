@@ -4,4 +4,6 @@ das urls pessoais dos usuarios
 Composto de um daemon + um modulo para apache
 
 
-Codigo nao funcional, apenas armazenado para historico
+Codigo nao funcional, apenas armazenado para historicr
+
+Utiliza uma versao modificada da network_api de Alexandre Fiori
